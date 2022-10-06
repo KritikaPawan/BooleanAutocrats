@@ -79,6 +79,5 @@ git push origin <branch name>
 
 ```
 3. Do we create another feature branch or work on the main branch?
-?
 ```
 > Ans. Yes, create a feature branch and work on that branch, don't make changes to the main/master branch.
